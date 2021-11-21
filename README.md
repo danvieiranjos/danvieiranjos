@@ -1,27 +1,28 @@
-### Hi there 👋
-
 ## Hey! 👋
 I'm Danilo Vieira!
+- <i>Currently:</i> Infrastructure Leader.
 
-Currently: Infrastructure Leader.
+## 💻 I'm Currently Learning
 
-💻 I'm Currently Learning
-Machine Learning
-Data Science
-Python Programming
-Currently working on:
-GCP Architecture for some BIG companies!!
-👀 GitHub Stats
-GitHub Stats
+- Python Programming
+- Data Science
 
-Top Langs
+## Currently working on:
 
-About Me⚡:
-You can check my prefessional info here.
+AWS Architecture!!
 
-📫 How to reach me:
-danilo.vieiranjos@gmail.com LinkedIn Medium
+## 👀 GitHub Stats
 
+[![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=danvieiranjos)](#)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danvieiranjos&layout=compact)](#)
+
+## About Me⚡:
+You can check my prefessional info [here](https://linktr.ee/danvieiranjos).
+
+## 📫 How to reach me:
+
+<a href="mailto:danilo.vieiranjos@gmail.com">![danilo.vieiranjos@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/danvieiranjos/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a> <a href="https://linktr.ee/danvieiranjos">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 
 
 
