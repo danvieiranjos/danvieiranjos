@@ -5,11 +5,14 @@ I'm Danilo Vieira!
 ## 💻 I'm Currently Learning
 
 - Python Programming
+- Automation
 - Data Science
 
 ## Currently working on:
 
-AWS Architecture!!
+- Infrastruture Architecture!!
+- AWS and Azure Architecture!!
+
 
 ## 👀 GitHub Stats
 
@@ -18,6 +21,7 @@ AWS Architecture!!
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danvieiranjos&layout=compact)](#)
 
 ## About Me⚡:
+
 You can check my prefessional info [here](https://linktr.ee/danvieiranjos).
 
 ## 📫 How to reach me:
