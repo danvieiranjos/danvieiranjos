@@ -50,7 +50,7 @@ You can check my prefessional info [here](https://linktr.ee/danvieiranjos).
 </div>
 
 
-<-![Snake animation](https://github.com/danvieiranjos/danvieiranjos/blob/output/github-contribution-grid-snake.svg) ->
+<!-- [Snake animation](https://github.com/danvieiranjos/danvieiranjos/blob/output/github-contribution-grid-snake.svg) ->
 
 
 <!--
